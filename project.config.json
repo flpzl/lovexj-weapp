@@ -1,13 +1,15 @@
 {
-  "description": "lovexj-weapp project",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wx28181d6076e0d239",
-  "projectname": "lovexj-weapp",
-  "miniprogramRoot": "./dist"
+	"description": "lovexj-weapp project",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx28181d6076e0d239",
+	"projectname": "lovexj-weapp",
+	"miniprogramRoot": "dist/",
+	"condition": {}
 }
